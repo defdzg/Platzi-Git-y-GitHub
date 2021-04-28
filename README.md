@@ -11,7 +11,6 @@ Usando HTML para hacer un **Hyperblog**.
 Saludos desde México 🤘
 
 @xsteguin
-@xsteguin
 Imcluye servicio de fotografía
 Disponible para todas las edades
 HOLA HOLA
